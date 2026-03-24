@@ -65,7 +65,7 @@ const Login: React.FC = () => {
         </div>
 
         <button type="submit" className="terminal-button">
-          > AUTHENTICATE
+          &gt; AUTHENTICATE
         </button>
       </form>
 
